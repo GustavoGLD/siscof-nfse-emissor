@@ -1,8 +1,8 @@
-# SISCOF NFSe Emissor
+# SISCOF NFS-e Emissor
 
 ## 🧾 Visão Geral
 
-O **SISCOF NFSe Emissor** é uma solução em Python para geração automática e auditável de **Notas Fiscais de Serviço Eletrônicas (NFSe)** e **arquivos de apuração tributária**, com foco em ISS, PIS, COFINS e IR. 
+O **SISCOF NFS-e Emissor** é uma solução em Python para geração automática e auditável de **Notas Fiscais de Serviço Eletrônicas (NFS-e)** e **arquivos de apuração tributária**, com foco em ISS, PIS, COFINS e IR. 
 
 Projetado para instituições financeiras, adquirentes e empresas de pagamento, o sistema processa transações de cartão e transforma essas informações em documentos fiscais conforme as exigências municipais, com exportação estruturada e logs de auditoria.
 
